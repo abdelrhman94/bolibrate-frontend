@@ -126,3 +126,4 @@ Optimized for deployment on Vercel. After building, run `next start` or connect 
 ## License
 
 This project is proprietary unless a LICENSE file states otherwise.
+# bolibrate-frontend-next
